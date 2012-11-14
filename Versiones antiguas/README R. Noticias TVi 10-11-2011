@@ -1,0 +1,8 @@
+Versión del recomendador con las bases de datos de NoticiasTVi utilizandóse con datos de prueba insertados directamente en el código.
+
+*Limpieza de código borrando lo anteriormente utilizado cuando usabamos la base de datos de Mahout 
+*Se ejecute desde línea de navegación como NoticiasTVi
+*Optimización del código
+*Añadir el módulo de parrilla de Danny a la estructura de ejecución del recomendador
+*
+*

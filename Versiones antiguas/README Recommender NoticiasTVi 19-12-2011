@@ -1,0 +1,5 @@
+Version del Recomendador totalmente operativo con recomendación social basada en facebook y twitter.
+
+*Optimizar el código.
+*Trabajar con base de datos dadas por gesfor.
+*Se estima la parte social sumándole el 10% del la suma de megustas de facebook y tweets. Mejorar el sistema de ponderación.
